@@ -1,4 +1,7 @@
 # Google Calendar Chart for Qlik Sense
+
+[Download link](https://github.com/arumjin/googleCalendarChartForQlikSense/raw/main/Google%20Calendar%20Chart.zip)
+
 ![image](https://user-images.githubusercontent.com/7877793/197676306-da3eff9d-7fef-4295-ba89-f53c38a9ff1e.png)
 ![image](https://user-images.githubusercontent.com/7877793/197672644-a1eeb5e1-90c4-4247-8b28-c60705efcd02.png)
 
